@@ -57,7 +57,7 @@ group :test do
   gem "rspec-html-matchers"
   gem "selenium-webdriver", "3.142.7"
   gem "webmock"
-  gem "webdrivers"
+  #gem "webdrivers"
 end
 
 group :production do
